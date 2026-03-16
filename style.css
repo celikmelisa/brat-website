@@ -58,3 +58,8 @@ margin:auto;
 padding:20px;
 border-radius:10px;
 }
+
+ul, ol{
+text-align:left;
+display:inline-block;
+}
